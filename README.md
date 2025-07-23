@@ -66,3 +66,5 @@ Request_URL
 •Integrate natural language processing (NLP) to analyze phishing content
 
 •Train on bank-specific phishing data for higher accuracy
+
+*Output*: ![Image](https://github.com/user-attachments/assets/4a5d64ad-54df-40cd-ad85-46af0ae396e7)
